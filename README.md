@@ -1,4 +1,4 @@
-Spotify + Spicetify Installer
+𝑺𝒑𝒐𝒕𝒊𝒇𝒚 + 𝑺𝒑𝒊𝒄𝒆𝒕𝒊𝒇𝒚 𝑰𝒏𝒔𝒕𝒂𝒍𝒍𝒆𝒓
 
 ✨ Installe automatiquement la dernière version de Spotify
 ✨ Installe et configure Spicetify
